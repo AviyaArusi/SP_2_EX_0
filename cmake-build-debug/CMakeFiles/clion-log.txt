@@ -1,1 +1,0 @@
-CMakeLists.txt not found in \\wsl$\Ubuntu\home\aviya\Clion_code\EX_0 Select CMakeLists.txt
